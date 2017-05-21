@@ -1,0 +1,6 @@
+{
+	"url": "http://www.google.com",
+	"requests": 600,
+	"time": 1000,
+	"timeout": 10000
+}
